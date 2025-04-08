@@ -115,9 +115,9 @@ I'm a passionate **Frontend Developer** dedicated to crafting pixel-perfect, use
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project Alpha</h3>
+      <h3 align="center">E-Commerce Website</h3>
       <br />
-      <a target="_blank" href="https://github.com/nikhil70700/project-link">
+      <a target="_blank" https://bazaario-niks-vanilla-js.netlify.app/">
         <img src="https://via.placeholder.com/500x300?text=Project+Alpha" width="100%" alt="Project Alpha"/>
       </a>
       <br />
