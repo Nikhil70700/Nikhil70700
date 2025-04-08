@@ -126,7 +126,7 @@ I'm a passionate **Frontend Developer** dedicated to crafting pixel-perfect, use
           <img src="https://img.shields.io/badge/Source_Code-20232A?style=for-the-badge&logo=github&logoColor=white"/>
         </a>  
         <a href="https://your-project-demo.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+          <img src="https://bazaario-niks-vanilla-js.netlify.app/"/>
         </a>
       </p>
       <p><strong>React, Node.js, MongoDB</strong> - A comprehensive web application that [add your project description here].</p>
