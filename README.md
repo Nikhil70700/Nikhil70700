@@ -118,7 +118,7 @@ I'm a passionate **Frontend Developer** dedicated to crafting pixel-perfect, use
       <h3 align="center">E-Commerce Website</h3>
       <br />
       <a target="_blank" href="https://github.com/nikhil70700/project-link">
-        <img src="https://via.placeholder.com/500x300?text=Project+Alpha" width="100%" alt="Project Alpha"/>
+        <img src="https://www.intelligenthq.com/wp-content/uploads/2019/09/e-commerce.jpg" width="100%" alt="Project Alpha"/>
       </a>
       <br />
       <p align="center">
@@ -141,7 +141,7 @@ I'm a passionate **Frontend Developer** dedicated to crafting pixel-perfect, use
       <h3 align="center">TODO-App</h3>
       <br />
       <a target="_blank" href="https://github.com/nikhil70700/project-link">
-        <img src="https://via.placeholder.com/500x300?text=Project+Beta" width="100%" alt="Project Beta"/>
+        <img src="https://www.intelligenthq.com/wp-content/uploads/2019/09/e-commerce.jpg" width="100%" alt="Project Beta"/>
       </a>
       <br />
       <p align="center">
@@ -166,7 +166,7 @@ I'm a passionate **Frontend Developer** dedicated to crafting pixel-perfect, use
       <h3 align="center">Tic-Tac Toe</h3>
       <br />
       <a target="_blank" href="https://github.com/nikhil70700/project-link">
-        <img src="https://via.placeholder.com/500x300?text=Project+Gamma" width="100%" alt="Project Gamma"/>
+        <img src="https://www.intelligenthq.com/wp-content/uploads/2019/09/e-commerce.jpg" width="100%" alt="Project Gamma"/>
       </a>
       <br />
       <p align="center">
@@ -189,7 +189,7 @@ I'm a passionate **Frontend Developer** dedicated to crafting pixel-perfect, use
       <h3 align="center">Pokemon Card</h3>
       <br />
       <a target="_blank" href="https://github.com/nikhil70700/project-link">
-        <img src="https://via.placeholder.com/500x300?text=Project+Delta" width="100%" alt="Project Delta"/>
+        <img src="https://www.intelligenthq.com/wp-content/uploads/2019/09/e-commerce.jpg"/>
       </a>
       <br />
       <p align="center">
