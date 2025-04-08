@@ -115,9 +115,9 @@ I'm a passionate **Frontend Developer** dedicated to crafting pixel-perfect, use
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">E-Commerce Website</h3>
+      <h3 align="center">Project Alpha</h3>
       <br />
-      <a target="_blank" https://bazaario-niks-vanilla-js.netlify.app/">
+      <a target="_blank" href="https://github.com/nikhil70700/project-link">
         <img src="https://via.placeholder.com/500x300?text=Project+Alpha" width="100%" alt="Project Alpha"/>
       </a>
       <br />
@@ -126,7 +126,7 @@ I'm a passionate **Frontend Developer** dedicated to crafting pixel-perfect, use
           <img src="https://img.shields.io/badge/Source_Code-20232A?style=for-the-badge&logo=github&logoColor=white"/>
         </a>  
         <a href="https://your-project-demo.com" target="_blank">
-          <img src="https://bazaario-niks-vanilla-js.netlify.app/"/>
+          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
         </a>
       </p>
       <p><strong>React, Node.js, MongoDB</strong> - A comprehensive web application that [add your project description here].</p>
