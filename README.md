@@ -1,138 +1,110 @@
-<!-- Modernized GitHub Profile README -->
+<img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif" alt="Header Banner" width="100%">
+
+<h1 align="center">Nikhil Pandey</h1>
+<h3 align="center">Frontend Developer & React Native Specialist</h3>
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#contact">Contact</a>
+</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif" alt="Header Banner" width="100%">
-  
-  # Hello World, I'm Nikhil Pandey 👋
-  ### Frontend Developer & React Native Enthusiast
-  
-  <img src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" alt="Coding Animation" width="350" />
-  
-  <p>
-    <a href="#about-me">About</a> •
-    <a href="#featured-projects">Projects</a> •
-    <a href="#tech-expertise">Tech Stack</a> •
-    <a href="#github-analytics">Analytics</a> •
-    <a href="#lets-connect">Connect</a>
-  </p>
+  <img src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" alt="Coding Animation" width="300" />
 </div>
 
-## 🧠 About Me
+## About
 
-Passionate **Frontend Developer** from India with a flair for crafting intuitive user experiences. Currently exploring the vast possibilities of **React Native** to build cross-platform mobile applications.
+I'm a passionate Frontend Developer specializing in creating intuitive and responsive web and mobile applications. With a focus on React and React Native, I strive to build user-friendly interfaces that deliver exceptional experiences.
 
-```javascript
-const nikhil = {
-  currentFocus: "React Native Development",
-  expertise: ["Frontend Development", "UI/UX Design", "MERN Stack"],
-  challenge: "Building a portfolio of high-impact mobile applications",
-  learning: "Advanced React patterns and mobile app optimization"
-}
-```
+- 🔭 I'm currently working on **expanding my React Native portfolio**
+- 🌱 I'm currently learning **advanced animation techniques and state management**
+- 👯 I'm looking to collaborate on **open source projects and innovative apps**
+- 💬 Ask me about **frontend development, UI/UX, and mobile app architecture**
+- ⚡ Fun fact: **I approach coding challenges like puzzles - methodically and creatively**
 
-> "Great design is not just what it looks like and feels like. Great design is how it works." - Steve Jobs
-
-When I'm not immersed in code, you'll find me exploring emerging technologies, contributing to open-source, or brainstorming innovative solutions to everyday problems.
-
-## 🚀 Featured Projects
+## Skills
 
 <div align="center">
-  
-  ### Project Alpha
-  <p>A comprehensive web application built with React and Node.js that [brief description of functionality and purpose].</p>
-  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  
-  [View Code](https://github.com/nikhil70700/project-link) • [Live Demo](https://your-demo-link.com)
-  
-  ### Project Beta
-  <p>A mobile application developed with React Native that [description of purpose and unique features].</p>
-  
-  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-  
-  [View Code](https://github.com/nikhil70700/project-link) • [Live Demo](https://your-demo-link.com)
+
+**Frontend Development**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Backend Development**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Other Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 </div>
 
-## 🛠️ Tech Expertise
+## Projects
 
-<table align="center">
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend</h3>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend</h3>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Tools & Others</h3>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40" />
-      </div>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><b>🏆 Project One</b></summary>
+  <br/>
+  <p><b>Description:</b> A description of your project, highlighting key features and technologies used.</p>
+  <p><b>Tech Stack:</b> React, Node.js, MongoDB</p>
+  <p><b>Links:</b> <a href="https://github.com/nikhil70700/project-link">GitHub</a> | <a href="https://your-live-demo.com">Live Demo</a></p>
+  <img src="https://via.placeholder.com/800x400?text=Project+Screenshot" width="100%" alt="Project One Screenshot"/>
+</details>
 
-## 📊 GitHub Analytics
+<details>
+  <summary><b>🏆 Project Two</b></summary>
+  <br/>
+  <p><b>Description:</b> A description of your project, highlighting key features and technologies used.</p>
+  <p><b>Tech Stack:</b> React Native, Firebase</p>
+  <p><b>Links:</b> <a href="https://github.com/nikhil70700/project-link">GitHub</a> | <a href="https://your-live-demo.com">Live Demo</a></p>
+  <img src="https://via.placeholder.com/800x400?text=Project+Screenshot" width="100%" alt="Project Two Screenshot"/>
+</details>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhil70700&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil70700&layout=compact&langs_count=8&theme=tokyonight" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil70700&theme=tokyonight" alt="GitHub Streak Stats" />
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=nikhil70700&label=Profile%20views&color=0e75b6&style=flat)
-</div>
+<details>
+  <summary><b>🏆 Project Three</b></summary>
+  <br/>
+  <p><b>Description:</b> A description of your project, highlighting key features and technologies used.</p>
+  <p><b>Tech Stack:</b> MERN Stack</p>
+  <p><b>Links:</b> <a href="https://github.com/nikhil70700/project-link">GitHub</a> | <a href="https://your-live-demo.com">Live Demo</a></p>
+  <img src="https://via.placeholder.com/800x400?text=Project+Screenshot" width="100%" alt="Project Three Screenshot"/>
+</details>
 
-## 🌐 Let's Connect
+## Stats
 
-<div align="center">
-  <a href="mailto:nikhilpandya829@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/0.niks_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/0.niks_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.codechef.com/users/nikhilpandya82">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil70700&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil70700&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+</p>
 
-<div align="center">
-  <h3>✨ Coding is like poetry; it's not just about what works, but how elegantly it works. ✨</h3>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil70700&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## Contact
+
+<p align="center">
+  <a href="mailto:nikhilpandya829@gmail.com"><img src="https://img.shields.io/badge/Email-nikhilpandya829@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/0.niks_"><img src="https://img.shields.io/badge/Twitter-@0.niks__-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/0.niks_"><img src="https://img.shields.io/badge/Instagram-0.niks__-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/nikhilpandya82"><img src="https://img.shields.io/badge/CodeChef-nikhilpandya82-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhil70700&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 ---
 
 <div align="center">
-  <sub>⭐ Don't forget to star repositories you find interesting! ⭐</sub>
+  <p>💻 Built with ❤️ by Nikhil Pandey</p>
 </div>
