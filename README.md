@@ -115,7 +115,7 @@ I'm a passionate **Frontend Developer** dedicated to crafting pixel-perfect, use
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project Alpha</h3>
+      <h3 align="center">E-Commerce Website</h3>
       <br />
       <a target="_blank" href="https://github.com/nikhil70700/project-link">
         <img src="https://via.placeholder.com/500x300?text=Project+Alpha" width="100%" alt="Project Alpha"/>
@@ -138,7 +138,7 @@ I'm a passionate **Frontend Developer** dedicated to crafting pixel-perfect, use
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project Beta</h3>
+      <h3 align="center">TODO-App</h3>
       <br />
       <a target="_blank" href="https://github.com/nikhil70700/project-link">
         <img src="https://via.placeholder.com/500x300?text=Project+Beta" width="100%" alt="Project Beta"/>
@@ -163,7 +163,7 @@ I'm a passionate **Frontend Developer** dedicated to crafting pixel-perfect, use
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project Gamma</h3>
+      <h3 align="center">Tic-Tac Toe</h3>
       <br />
       <a target="_blank" href="https://github.com/nikhil70700/project-link">
         <img src="https://via.placeholder.com/500x300?text=Project+Gamma" width="100%" alt="Project Gamma"/>
@@ -186,7 +186,7 @@ I'm a passionate **Frontend Developer** dedicated to crafting pixel-perfect, use
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project Delta</h3>
+      <h3 align="center">Pokemon Card</h3>
       <br />
       <a target="_blank" href="https://github.com/nikhil70700/project-link">
         <img src="https://via.placeholder.com/500x300?text=Project+Delta" width="100%" alt="Project Delta"/>
