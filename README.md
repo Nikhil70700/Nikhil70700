@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
 <h1 align="center">Hi 👋, I'm Nikhil Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" alt="Coding" width="400">
+<img align="right" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil70700&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil70700" /> </p>
 
