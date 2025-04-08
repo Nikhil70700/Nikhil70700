@@ -1,297 +1,157 @@
-<div align="center">
-  <!-- DYNAMIC HEADER WITH PARALLAX EFFECT -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Nikhil%20Pandey&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20Architect%20%7C%20Mobile%20Maestro&descAlignY=55&descAlign=60">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Nikhil%20Pandey&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20Architect%20%7C%20Mobile%20Maestro&descAlignY=55&descAlign=60" width="100%">
-  </picture>
+<!-- HEADER -->
+<div align="center" style="padding: 2rem; background: linear-gradient(135deg, #667eea, #764ba2); color: #fff;">
+  <h1 style="margin: 0; font-size: 3rem; font-weight: bold;">Nikhil Pandey</h1>
+  <p style="font-size: 1.2rem; margin: 0.5rem 0;">Frontend Developer | React Native Enthusiast | UI/UX Designer</p>
+  <!-- Navigation Buttons -->
+  <div style="margin-top: 1rem;">
+    <a href="#about" style="margin: 0 0.5rem; padding: 0.5rem 1rem; background: #fff; border-radius: 5px; color: #764ba2; text-decoration: none; font-weight: bold;">About Me</a>
+    <a href="#tech" style="margin: 0 0.5rem; padding: 0.5rem 1rem; background: #fff; border-radius: 5px; color: #764ba2; text-decoration: none; font-weight: bold;">Tech Stack</a>
+    <a href="#projects" style="margin: 0 0.5rem; padding: 0.5rem 1rem; background: #fff; border-radius: 5px; color: #764ba2; text-decoration: none; font-weight: bold;">Projects</a>
+    <a href="#stats" style="margin: 0 0.5rem; padding: 0.5rem 1rem; background: #fff; border-radius: 5px; color: #764ba2; text-decoration: none; font-weight: bold;">Stats</a>
+    <a href="#connect" style="margin: 0 0.5rem; padding: 0.5rem 1rem; background: #fff; border-radius: 5px; color: #764ba2; text-decoration: none; font-weight: bold;">Connect</a>
+  </div>
+</div>
 
-  <!-- NEON TYPING EFFECT -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=React+Native+Specialist;Pixel-Perfect+UIs;Cross-Platform+Solutions;Clean+Code+Advocate;Tech+Evangelist" alt="Typing SVG">
+<!-- ABOUT ME SECTION -->
+<section id="about" style="padding: 2rem 1rem; border-bottom: 2px solid #e0e0e0;">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 2rem;">
+    <!-- Text Column -->
+    <div style="flex: 1; min-width: 280px;">
+      <h2>About Me 🚀</h2>
+      <p style="line-height: 1.6; font-size: 1rem;">
+        Hi, I'm <strong>Nikhil Pandey</strong> from India – a frontend developer passionate about building slick, performant, and user-friendly applications. I work primarily with React, React Native, and the MERN stack, always aiming to create delightful user experiences.
+      </p>
+      <pre style="background: #f4f4f4; padding: 1rem; border-radius: 8px; overflow-x: auto;">
+const nikhil = {
+  location: "India",
+  role: "Frontend Developer",
+  specialty: "React Native & MERN Stack",
+  interests: ["UI/UX", "Clean Code", "Performance"],
+  goals: ["Innovate impactful solutions", "Master advanced React patterns"]
+};
+      </pre>
+      <blockquote style="font-style: italic; margin-top: 1rem;">
+        "The best way to predict the future is to create it."
+      </blockquote>
+    </div>
+    <!-- Image Column -->
+    <div style="flex: 1; min-width: 280px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" alt="Coding Animation" style="width: 90%; max-width: 300px; border-radius: 50%;">
+    </div>
+  </div>
+</section>
+
+<!-- TECH STACK SECTION -->
+<section id="tech" style="padding: 2rem 1rem; background: #fafafa; border-bottom: 2px solid #e0e0e0;">
+  <h2 style="text-align: center;">Tech Stack 🛠️</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; margin-top: 1.5rem;">
+    <!-- Frontend -->
+    <div style="text-align: center;">
+      <h3>Frontend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+      </p>
+    </div>
+    <!-- Backend -->
+    <div style="text-align: center;">
+      <h3>Backend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </p>
+    </div>
+    <!-- Tools & Utilities -->
+    <div style="text-align: center;">
+      <h3>Tools & Utilities</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- PROJECTS SECTION -->
+<section id="projects" style="padding: 2rem 1rem; border-bottom: 2px solid #e0e0e0;">
+  <h2 style="text-align: center;">Projects 🏗️</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
+    <!-- Project Card Example -->
+    <div style="background: #fff; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s; overflow: hidden;">
+      <a href="https://github.com/nikhil70700/project-link" target="_blank" style="text-decoration: none;">
+        <img src="https://via.placeholder.com/500x300?text=Project+Alpha" alt="Project Alpha" style="width: 100%;">
+      </a>
+      <div style="padding: 1rem;">
+        <h3 style="margin-top: 0;">Project Alpha</h3>
+        <p><strong>Technologies:</strong> React, Node.js, MongoDB</p>
+        <ul style="padding-left: 1.2rem;">
+          <li>Feature 1</li>
+          <li>Feature 2</li>
+          <li>Feature 3</li>
+        </ul>
+        <div style="display: flex; gap: 0.5rem; margin-top: 0.5rem;">
+          <a href="https://github.com/nikhil70700/project-link" target="_blank">
+            <img src="https://img.shields.io/badge/Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
+          </a>
+          <a href="https://your-project-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+          </a>
+        </div>
+      </div>
+    </div>
+    <!-- Copy and adjust the card above for additional projects -->
+  </div>
+  <div style="text-align: center; margin-top: 2rem;">
+    <a href="https://github.com/nikhil70700?tab=repositories" target="_blank" style="padding: 0.75rem 1.5rem; background: #764ba2; color: #fff; border-radius: 5px; text-decoration: none; font-weight: bold;">View All Repositories</a>
+  </div>
+</section>
+
+<!-- GITHUB STATS SECTION -->
+<section id="stats" style="padding: 2rem 1rem; background: #fafafa; border-bottom: 2px solid #e0e0e0;">
+  <h2 style="text-align: center;">GitHub Stats 📊</h2>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem; margin-top: 1.5rem;">
+    <img src="https://github-profile-trophy.vercel.app/?username=nikhil70700&theme=onedark&no-frame=true&column=5" alt="GitHub Trophies" style="max-width: 100%;">
+    <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=nikhil70700&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" style="max-width: 100%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil70700&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" style="max-width: 100%;">
+    </div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil70700&theme=onedark&hide_border=true" alt="GitHub Streak Stats" style="max-width: 100%;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil70700&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&hide_border=true" alt="Activity Graph" style="max-width: 100%;">
+  </div>
+</section>
+
+<!-- CONNECT SECTION -->
+<section id="connect" style="padding: 2rem 1rem; text-align: center;">
+  <h2>Connect 🌐</h2>
+  <p style="margin-bottom: 1rem;">
+    <a href="mailto:nikhilpandya829@gmail.com" style="margin: 0 0.5rem; text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://twitter.com/0.niks_" target="_blank" style="margin: 0 0.5rem; text-decoration: none;">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://instagram.com/0.niks_" target="_blank" style="margin: 0 0.5rem; text-decoration: none;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank" style="margin: 0 0.5rem; text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/nikhil70700" target="_blank" style="margin: 0 0.5rem; text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+  <h3 style="margin-bottom: 1rem;">Let's Build Something Awesome!</h3>
+  <a href="https://www.buymeacoffee.com/yourlink" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: auto;">
   </a>
+</section>
 
-  <!-- GLOWING NAVIGATION -->
-  <div class="glow-container">
-    <a href="#about" class="glow-button">About</a>
-    <a href="#expertise" class="glow-button">Expertise</a>
-    <a href="#showcase" class="glow-button">Showcase</a>
-    <a href="#innovation" class="glow-button">Innovation</a>
-    <a href="#connect" class="glow-button">Connect</a>
-  </div>
-
-  <!-- PROFILE METRICS WITH CUSTOM COUNTER -->
-  <div class="metrics-wrapper">
-    <div class="metric-box">
-      <span class="metric-number" data-count="127">0</span>
-      <span class="metric-label">Projects Shipped</span>
-    </div>
-    <div class="metric-box">
-      <span class="metric-number" data-count="98">0</span>
-      <span class="metric-label">Satisfied Clients</span>
-    </div>
-    <div class="metric-box">
-      <span class="metric-number" data-count="359">0</span>
-      <span class="metric-label">Cups of Coffee</span>
-    </div>
-  </div>
-</div>
-
-<!-- 3D PROFILE SECTION -->
-<h2 id="about">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="40"> 
-  Digital Craftsman
-</h2>
-
-<div align="center" class="profile-3d">
-  <model-viewer 
-    src="https://modelviewer.dev/shared-assets/models/NeilArmstrong.glb" 
-    alt="3D Developer Avatar"
-    ar
-    ar-modes="webxr scene-viewer quick-look"
-    environment-image="neutral"
-    auto-rotate
-    camera-controls>
-  </model-viewer>
-  
-  <div class="bio-card">
-    <h3>Nikhil Pandey</h3>
-    <div class="tag-cloud">
-      <span class="tag">React Native Guru</span>
-      <span class="tag">UI Alchemist</span>
-      <span class="tag">Performance Ninja</span>
-      <span class="tag">Open Source Contributor</span>
-    </div>
-    <p class="bio-text">
-      Bridging design and technology to create immersive mobile experiences. 
-      With 5+ years crafting digital solutions, I transform complex problems 
-      into elegant, user-centric applications.
-    </p>
-  </div>
-</div>
-
-<!-- EXPERTISE MATRIX -->
-<h2 id="expertise">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="40"> 
-  Technical Arsenal
-</h2>
-
-<div class="expertise-grid">
-  <!-- Mobile Development -->
-  <div class="skill-category">
-    <h3><img src="https://img.icons8.com/3d-fluency/94/iphone.png" width="30"> Mobile Mastery</h3>
-    <div class="skill-progress">
-      <span>React Native</span>
-      <div class="progress-bar" data-level="95"></div>
-    </div>
-    <div class="skill-progress">
-      <span>Native Modules</span>
-      <div class="progress-bar" data-level="85"></div>
-    </div>
-    <div class="skill-progress">
-      <span>Animations</span>
-      <div class="progress-bar" data-level="90"></div>
-    </div>
-  </div>
-
-  <!-- Frontend Development -->
-  <div class="skill-category">
-    <h3><img src="https://img.icons8.com/3d-fluency/94/globe.png" width="30"> Frontend Excellence</h3>
-    <div class="skill-progress">
-      <span>React</span>
-      <div class="progress-bar" data-level="98"></div>
-    </div>
-    <div class="skill-progress">
-      <span>TypeScript</span>
-      <div class="progress-bar" data-level="92"></div>
-    </div>
-    <div class="skill-progress">
-      <span>State Management</span>
-      <div class="progress-bar" data-level="94"></div>
-    </div>
-  </div>
-
-  <!-- Architecture -->
-  <div class="skill-category">
-    <h3><img src="https://img.icons8.com/3d-fluency/94/network.png" width="30"> Architecture</h3>
-    <div class="skill-progress">
-      <span>Microservices</span>
-      <div class="progress-bar" data-level="88"></div>
-    </div>
-    <div class="skill-progress">
-      <span>CI/CD Pipelines</span>
-      <div class="progress-bar" data-level="90"></div>
-    </div>
-    <div class="skill-progress">
-      <span>Testing Strategies</span>
-      <div class="progress-bar" data-level="93"></div>
-    </div>
-  </div>
-</div>
-
-<!-- PROJECT SHOWCASE CAROUSEL -->
-<h2 id="showcase">
-  <img src="https://media.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif" width="40"> 
-  Innovation Gallery
-</h2>
-
-<div class="project-carousel">
-  <!-- Project 1 -->
-  <div class="project-card">
-    <div class="project-media">
-      <video autoplay loop muted playsinline>
-        <source src="project-demo.mp4" type="video/mp4">
-      </video>
-    </div>
-    <div class="project-info">
-      <h3>Fintech Pro</h3>
-      <div class="tech-stack">
-        <img src="react-native.svg" alt="React Native">
-        <img src="firebase.svg" alt="Firebase">
-        <img src="typescript.svg" alt="TypeScript">
-      </div>
-      <p>Secure banking app handling $1M+ transactions daily</p>
-      <div class="project-links">
-        <a href="#" class="demo-button">Live Demo</a>
-        <a href="#" class="code-button">Source Code</a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Project 2 -->
-  <div class="project-card">
-    <!-- Similar structure -->
-  </div>
-</div>
-
-<!-- INNOVATION TIMELINE -->
-<h2 id="innovation">
-  <img src="https://media.giphy.com/media/LqXN9T3XZRjRfXvZTO/giphy.gif" width="40"> 
-  Engineering Evolution
-</h2>
-
-<div class="timeline">
-  <div class="timeline-item">
-    <div class="timeline-date">2023</div>
-    <div class="timeline-content">
-      <h3>Performance Breakthroughs</h3>
-      <p>Reduced app launch time by 65% through advanced optimization techniques</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2022</div>
-    <div class="timeline-content">
-      <h3>Cross-Platform Innovation</h3>
-      <p>Developed unified codebase solution for iOS/Android/Web</p>
-    </div>
-  </div>
-</div>
-
-<!-- CONTACT HOLOGRAM -->
-<h2 id="connect">
-  <img src="https://media.giphy.com/media/KB7oZjkNuyE7u8wpL8/giphy.gif" width="40"> 
-  Collaborative Nexus
-</h2>
-
-<div class="contact-hologram">
-  <div class="hologram-content">
-    <h3>Let's Create Tomorrow's Apps Today</h3>
-    <div class="social-matrix">
-      <a href="#" class="social-link linkedin">
-        <img src="linkedin-3d.png" alt="LinkedIn">
-        <span>Professional Network</span>
-      </a>
-      <a href="#" class="social-link github">
-        <img src="github-3d.png" alt="GitHub">
-        <span>Code Collaboration</span>
-      </a>
-      <a href="#" class="social-link email">
-        <img src="email-3d.png" alt="Email">
-        <span>Direct Message</span>
-      </a>
-    </div>
-    <div class="cta-section">
-      <p>Available for visionary projects and technical consulting</p>
-      <a href="#" class="cta-button">Schedule Strategy Session</a>
-    </div>
-  </div>
-</div>
-
-<!-- INTERACTIVE FOOTER -->
-<div class="interactive-footer">
-  <div class="particles-container" id="particles-js"></div>
-  <div class="footer-content">
-    <p>🚀 Powered by Innovation | ⚡ Optimized for Excellence | 🌐 Connected to Tomorrow</p>
-    <div class="theme-switcher">
-      <button class="theme-btn light">☀️</button>
-      <button class="theme-btn dark">🌙</button>
-    </div>
-  </div>
-</div>
-
-<style>
-  /* Add sophisticated animations and gradients */
-  @keyframes gradientPulse {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-
-  .glow-button {
-    background: linear-gradient(45deg, #6F38C5, #8A2BE2);
-    animation: gradientPulse 5s ease infinite;
-    transition: transform 0.3s, box-shadow 0.3s;
-  }
-
-  .skill-progress .progress-bar {
-    background: linear-gradient(90deg, #6F38C5, #8A2BE2);
-    box-shadow: 0 0 15px #6F38C555;
-  }
-
-  .project-card {
-    background: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
-    transition: transform 0.3s;
-  }
-
-  /* Add 3D transforms and perspective */
-  .profile-3d model-viewer {
-    transform: perspective(1000px) rotateY(20deg);
-    transition: transform 0.5s;
-  }
-
-  /* Responsive design enhancements */
-  @media (max-width: 768px) {
-    .expertise-grid {
-      grid-template-columns: 1fr;
-      gap: 2rem;
-    }
-  }
-</style>
-
-<script>
-  // Add interactive elements
-  document.querySelectorAll('.glow-button').forEach(button => {
-    button.addEventListener('mouseover', () => {
-      button.style.transform = 'translateY(-3px)';
-      button.style.boxShadow = '0 10px 20px rgba(111, 56, 197, 0.4)';
-    });
-  });
-
-  // Animated counter
-  const metrics = document.querySelectorAll('.metric-number');
-  metrics.forEach(metric => {
-    const target = +metric.dataset.count;
-    const duration = 2000;
-    const step = target / (duration / 10);
-    let count = 0;
-    
-    const counter = setInterval(() => {
-      count += step;
-      if(count >= target) {
-        clearInterval(counter);
-        count = target;
-      }
-      metric.textContent = Math.floor(count);
-    }, 10);
-  });
-</script>
+<!-- FOOTER -->
+<footer style="padding: 1rem; text-align: center; background: #2d2d2d; color: #fff;">
+  <p style="margin: 0;">&copy; 2025 Nikhil Pandey. All Rights Reserved.</p>
+</footer>
