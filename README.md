@@ -103,56 +103,24 @@ const nikhil = {
 <h2 id="projects">🏗️ Featured Projects</h2>
 
 <div align="center">
+  <!-- Scrolling marquee for project images -->
+  <marquee behavior="scroll" direction="left" scrollamount="5" style="margin: 2rem 0;">
+    <!-- Project 1: E-Commerce Website -->
+    <a href="https://github.com/nikhil70700/project-link" target="_blank" style="margin: 0 20px;">
+      <img src="https://www.intelligenthq.com/wp-content/uploads/2019/09/e-commerce.jpg" alt="E-Commerce Website" width="300" style="border-radius:8px;"/>
+    </a>
+    <!-- Project 2: Snake Game -->
+    <a href="#" target="_blank" style="margin: 0 20px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFB9qOSpm7vNL1FAOQJ6Lfl5W5hH6JW8LeITEyhP4mEVbferg7LfK5E0A1inRvJ8_FIM&usqp=CAU" alt="Snake Game" width="300" style="border-radius:8px;"/>
+    </a>
+    <!-- Add additional projects here in the same format -->
+  </marquee>
 
-  <!-- Project 1 -->
-  <details>
-    <summary style="cursor:pointer; font-size:1.5em; margin: 1rem 0;"><strong>E-Commerce Website</strong></summary>
-    <div align="center">
-      <a href="https://github.com/nikhil70700/project-link" target="_blank">
-        <img src="https://www.intelligenthq.com/wp-content/uploads/2019/09/e-commerce.jpg" width="400" alt="E-Commerce Website" style="border-radius:8px;"/>
-      </a>
-      <p style="margin: 0.5rem 0;">
-        <a href="https://github.com/nikhil70700/project-link" target="_blank">
-          <img src="https://img.shields.io/badge/Code-20232A?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-        <a href="https://your-project-demo.com" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"/>
-        </a>
-      </p>
-      <p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
-      <p style="max-width:600px;">A comprehensive web application for online shopping featuring a responsive UI, secure payment processing, and real-time inventory management.</p>
-    </div>
-  </details>
-
-  <!-- Spacer -->
-  <br />
-
-  <!-- Project 2 -->
-  <details>
-    <summary style="cursor:pointer; font-size:1.5em; margin: 1rem 0;"><strong>Snake Game</strong></summary>
-    <div align="center">
-      <a href="#" target="_blank">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFB9qOSpm7vNL1FAOQJ6Lfl5W5hH6JW8LeITEyhP4mEVbferg7LfK5E0A1inRvJ8_FIM&usqp=CAU" width="400" alt="Snake Game" style="border-radius:8px;"/>
-      </a>
-      <p style="margin: 0.5rem 0;">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Code-20232A?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"/>
-        </a>
-      </p>
-      <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
-      <p style="max-width:600px;">An entertaining and responsive version of the classic Snake Game with modern styling and interactive controls. More details coming soon!</p>
-    </div>
-  </details>
-
-  <!-- Link to all projects -->
-  <br />
-  <a href="https://github.com/nikhil70700?tab=repositories">
+  <!-- Supporting text and link to view all projects -->
+  <p>Click any project image to learn more or view the demo!</p>
+  <a href="https://github.com/nikhil70700?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20Projects-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
-  
 </div>
 
 
