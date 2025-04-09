@@ -99,25 +99,64 @@ const nikhil = {
 
 ---
 
-<!-- PROJECTS SECTION -->
-<h2 id="projects">🏗️ Featured Projects</h2>
+## 🏗️ Featured Projects
 
 <div align="center">
-  <!-- Scrolling marquee for project images -->
-  <marquee behavior="scroll" direction="left" scrollamount="5" style="margin: 2rem 0;">
-    <!-- Project 1: E-Commerce Website -->
-    <a href="https://github.com/nikhil70700/project-link" target="_blank" style="margin: 0 20px;">
-      <img src="https://www.intelligenthq.com/wp-content/uploads/2019/09/e-commerce.jpg" alt="E-Commerce Website" width="300" style="border-radius:8px;"/>
-    </a>
-    <!-- Project 2: Snake Game -->
-    <a href="#" target="_blank" style="margin: 0 20px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFB9qOSpm7vNL1FAOQJ6Lfl5W5hH6JW8LeITEyhP4mEVbferg7LfK5E0A1inRvJ8_FIM&usqp=CAU" alt="Snake Game" width="300" style="border-radius:8px;"/>
-    </a>
-    <!-- Add additional projects here in the same format -->
-  </marquee>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">E-Commerce Website</h3>
+        <p align="center">
+          <a href="https://github.com/nikhil70700/project-link" target="_blank">
+            <img src="https://www.intelligenthq.com/wp-content/uploads/2019/09/e-commerce.jpg" width="100%" alt="E-Commerce Website"/>
+          </a>
+          <p align="center">
+            A full-featured online shopping platform with user authentication, product catalog, and payment integration.
+          </p>
+          <p align="center">
+            <a href="https://github.com/nikhil70700/project-link" target="_blank">
+              <img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Demo-5A67D8?style=for-the-badge&logo=web&logoColor=white" alt="Demo"/>
+            </a>
+          </p>
+          <p align="center">
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Snake Game</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFB9qOSpm7vNL1FAOQJ6Lfl5W5hH6JW8LeITEyhP4mEVbferg7LfK5E0A1inRvJ8_FIM&usqp=CAU" width="100%" alt="Snake Game"/>
+          </a>
+          <p align="center">
+            A classic snake game built with vanilla JavaScript featuring multiple difficulty levels and score tracking.
+          </p>
+          <p align="center">
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Demo-5A67D8?style=for-the-badge&logo=web&logoColor=white" alt="Demo"/>
+            </a>
+          </p>
+          <p align="center">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
 
-  <!-- Supporting text and link to view all projects -->
-  <p>Click any project image to learn more or view the demo!</p>
+  <p><b>Click on an image to learn more or view the demo!</b></p>
+  
   <a href="https://github.com/nikhil70700?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20Projects-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
