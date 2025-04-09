@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/PROJECTS-00CED1?style=for-the-badge"/>
     </a>
     <a href="#github-stats-">
-      <img src="https://img.shields.io/badge/GITHUB%20STATS-4CAF50?style=for-the-badge"/>
+      <img src="https://www.creative-tim.com/blog/content/images/2021/10/Github-profile-1.jpg"/>
     </a>
     <a href="#connect-">
       <img src="https://img.shields.io/badge/CONNECT-FF69B4?style=for-the-badge"/>
