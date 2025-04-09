@@ -109,7 +109,7 @@ const nikhil = {
         <h3 align="center">E-Commerce Website</h3>
         <div align="center">
           <a href="https://github.com/nikhil70700/project-link" target="_blank">
-            <img src="https://www.intelligenthq.com/wp-content/uploads/2019/09/e-commerce.jpg" width="400" alt="E-Commerce Website" />
+            <img src="https://www.intelligenthq.com/wp-content/uploads/2019/09/e-commerce.jpg" width="400" rounded-5 alt="E-Commerce Website" />
           </a>
           <p>
             <a href="https://github.com/nikhil70700/project-link" target="_blank">
