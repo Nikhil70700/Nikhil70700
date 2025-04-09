@@ -124,10 +124,10 @@ const nikhil = {
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Project Placeholder</h3>
+        <h3 align="center">Snake Game</h3>
         <div align="center">
           <a href="#">
-            <img src="https://via.placeholder.com/400x200?text=Coming+Soon" width="400" alt="Project Placeholder" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFB9qOSpm7vNL1FAOQJ6Lfl5W5hH6JW8LeITEyhP4mEVbferg7LfK5E0A1inRvJ8_FIM&usqp=CAU" width="400" alt="Project Placeholder" />
           </a>
           <p>
             <a href="#">
