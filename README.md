@@ -119,30 +119,7 @@
     </div>
     
     <!-- Project 2 -->
-    <div style="width: 45%; min-width: 300px; border: 1px solid #333; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 10px; overflow: hidden; transition: transform 0.3s ease;">
-      <div style="height: 200px; overflow: hidden;">
-        <a href="#" target="_blank">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFB9qOSpm7vNL1FAOQJ6Lfl5W5hH6JW8LeITEyhP4mEVbferg7LfK5E0A1inRvJ8_FIM&usqp=CAU" width="100%" height="100%" alt="Snake Game" style="object-fit: cover; transition: transform 0.3s ease;"/>
-        </a>
-      </div>
-      <div style="padding: 15px;">
-        <h3 style="margin-top: 0; color: #764ba2;">Snake Game</h3>
-        <p>A classic snake game built with vanilla JavaScript featuring multiple difficulty levels and score tracking.</p>
-        <div style="display: flex; gap: 10px; margin: 15px 0;">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-5A67D8?style=for-the-badge&logo=web&logoColor=white" alt="Demo"/>
-          </a>
-        </div>
-        <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        </div>
-      </div>
-    </div>
+   
   </div>
 
   <a href="https://github.com/nikhil70700?tab=repositories" target="_blank">
