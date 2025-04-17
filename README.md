@@ -1,4 +1,3 @@
-<!-- HEADER SECTION - Simplified with fewer API dependencies -->
 <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Nikhil%20Pandey&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner"/>
   <h3>Frontend Developer | React Native Specialist | UI/UX Enthusiast</h3>
@@ -92,56 +91,64 @@
 <h2 id="projects">🏗️ Featured Projects</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center" style="background: rgba(90, 103, 216, 0.05); border-radius: 10px; padding: 15px;">
-        <h3>E-Commerce Website</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <!-- Project 1 -->
+    <div style="width: 45%; min-width: 300px; border: 1px solid #333; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 10px; overflow: hidden; transition: transform 0.3s ease;">
+      <div style="height: 200px; overflow: hidden;">
         <a href="https://github.com/nikhil70700/project-link" target="_blank">
-          <img src="https://www.intelligenthq.com/wp-content/uploads/2019/09/e-commerce.jpg" width="100%" height="200px" alt="E-Commerce Website" style="object-fit: cover; border-radius: 8px;"/>
+          <img src="https://www.intelligenthq.com/wp-content/uploads/2019/09/e-commerce.jpg" width="100%" height="100%" alt="E-Commerce Website" style="object-fit: cover; transition: transform 0.3s ease;"/>
         </a>
+      </div>
+      <div style="padding: 15px;">
+        <h3 style="margin-top: 0; color: #764ba2;">E-Commerce Website</h3>
         <p>A full-featured online shopping platform with user authentication, product catalog, and payment integration.</p>
-        <p>
+        <div style="display: flex; gap: 10px; margin: 15px 0;">
           <a href="https://github.com/nikhil70700/project-link" target="_blank">
             <img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
           </a>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Demo-5A67D8?style=for-the-badge&logo=web&logoColor=white" alt="Demo"/>
           </a>
-        </p>
-        <p>
+        </div>
+        <div style="display: flex; flex-wrap: wrap; gap: 5px;">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        </p>
-      </td>
-      <td width="50%" align="center" style="background: rgba(90, 103, 216, 0.05); border-radius: 10px; padding: 15px;">
-        <h3>Snake Game</h3>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Project 2 -->
+    <div style="width: 45%; min-width: 300px; border: 1px solid #333; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 10px; overflow: hidden; transition: transform 0.3s ease;">
+      <div style="height: 200px; overflow: hidden;">
         <a href="#" target="_blank">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFB9qOSpm7vNL1FAOQJ6Lfl5W5hH6JW8LeITEyhP4mEVbferg7LfK5E0A1inRvJ8_FIM&usqp=CAU" width="100%" height="200px" alt="Snake Game" style="object-fit: cover; border-radius: 8px;"/>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFB9qOSpm7vNL1FAOQJ6Lfl5W5hH6JW8LeITEyhP4mEVbferg7LfK5E0A1inRvJ8_FIM&usqp=CAU" width="100%" height="100%" alt="Snake Game" style="object-fit: cover; transition: transform 0.3s ease;"/>
         </a>
+      </div>
+      <div style="padding: 15px;">
+        <h3 style="margin-top: 0; color: #764ba2;">Snake Game</h3>
         <p>A classic snake game built with vanilla JavaScript featuring multiple difficulty levels and score tracking.</p>
-        <p>
+        <div style="display: flex; gap: 10px; margin: 15px 0;">
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
           </a>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Demo-5A67D8?style=for-the-badge&logo=web&logoColor=white" alt="Demo"/>
           </a>
-        </p>
-        <p>
+        </div>
+        <div style="display: flex; flex-wrap: wrap; gap: 5px;">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        </p>
-      </td>
-    </tr>
-  </table>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <a href="https://github.com/nikhil70700?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20Projects-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
 </div>
-
 ---
 
 <!-- GITHUB STATS SECTION - More selective stats -->
