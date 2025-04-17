@@ -1,7 +1,6 @@
 <!-- HEADER SECTION - Simplified with fewer API dependencies -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="100%" alt="Header Banner"/>
-  
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Nikhil%20Pandey&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner"/>
   <h3>Frontend Developer | React Native Specialist | UI/UX Enthusiast</h3>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=nikhil70700&style=flat-square&color=blueviolet)
@@ -19,7 +18,7 @@
 <h2 id="about-me">✨ About Me</h2>
 
 <div>
-  <img align="right" width="300" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" alt="Coding Animation"/>
+  <img align="right" width="300" src="[https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)" alt="Coding Animation"/>
 
   ### Hello, I'm Nikhil! 👋
 
